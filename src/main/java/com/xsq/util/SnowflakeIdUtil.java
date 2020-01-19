@@ -2,7 +2,7 @@ package com.xsq.util;
 
 /**
  * @ClassName SnowflakeIdUtil
- * @Description TODO
+ * @Description TODO 雪花使用工具类
  * @Author xsq
  * @Date 2020/1/17 17:41
  **/
